@@ -5,6 +5,9 @@ This repository contains ipython notebooks which walk through the steps of build
 
 * transfer_learning_image.ipynb - This notebook exploits transfer learning to build an image classifier.  The well known CIFAR-10 (https://www.cs.toronto.edu/~kriz/cifar.html) data set and Inception V3 (https://arxiv.org/abs/1512.00567) are used.
 
+* style_transfer.ipynb - This notebook performs a simple style transfer.  You can load your own images into an 'images' folder to practice on your own.
+
+
 
 
 
